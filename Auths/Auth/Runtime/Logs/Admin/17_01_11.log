@@ -1,0 +1,753 @@
+[ 2017-01-11T14:24:11+08:00 ] ::1 /Auths/index.php/Admin/admin/group_add
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.053003s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.032002s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053003s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.017001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017001s ]
+
+[ 2017-01-11T14:24:14+08:00 ] ::1 /Auths/index.php/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.001000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001001s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001001s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010000s ]
+
+[ 2017-01-11T14:24:15+08:00 ] ::1 /Auths/index.php/Admin/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-01-11T14:24:16+08:00 ] ::1 /Auths/index.php/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-11T14:24:16+08:00 ] ::1 /Auths/index.php/Admin/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-11T14:24:16+08:00 ] ::1 /Auths/index.php/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-11T14:24:16+08:00 ] ::1 /Auths/index.php/Admin/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002001s ]
+
+[ 2017-01-11T14:24:22+08:00 ] ::1 /Auths/index.php/Admin/Public/check_code.html?code=jzck
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+
+[ 2017-01-11T14:24:27+08:00 ] ::1 /Auths/index.php/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0230s ]
+SQL: SELECT `id`,`account`,`login_count`,`status` FROM `db_admin` WHERE `account` = 'admin' AND `password` = 'e10adc3949ba59abbe56e057f20f883e' LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-11T14:24:30+08:00 ] ::1 /Auths/index.php/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.019001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-11T14:24:30+08:00 ] ::1 /Auths/index.php/Admin/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-11T14:24:31+08:00 ] ::1 /Auths/index.php/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.012001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-11T14:24:31+08:00 ] ::1 /Auths/index.php/Admin/Public/verify.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003001s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-11T14:24:36+08:00 ] ::1 /Auths/index.php/Admin/Public/check_code.html?code=vqqa
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-11T14:24:37+08:00 ] ::1 /Auths/index.php/Admin/Public/login.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000000s ]
+SQL: SHOW COLUMNS FROM `db_admin` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`account`,`login_count`,`status` FROM `db_admin` WHERE `account` = 'admin' AND `password` = '21232f297a57a5a743894a0e4a801fc3' LIMIT 1   [ RunTime:0.0000s ]
+SQL: UPDATE `db_admin` SET `login_ip`='0.0.0.0',`login_time`='1484115877',`login_count`='8' WHERE `id` = 1 [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.010000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-11T14:24:38+08:00 ] ::1 /Auths/index.php/Admin/Index/index.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001001s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `db_auth_rule` [ RunTime:0.0330s ]
+SQL: SELECT `id`,`name`,`title`,`sort` FROM `db_auth_rule` WHERE `pid` = 0 AND `status` = 1 ORDER BY sort ASC  [ RunTime:0.0130s ]
+SQL: SHOW COLUMNS FROM `db_auth_group_access` [ RunTime:0.0210s ]
+SQL: SELECT `uid`,`group_id`,`title`,`rules` FROM db_auth_group_access a INNER JOIN db_auth_group g on a.group_id=g.id  WHERE ( a.uid='1' and g.status='1' )  [ RunTime:0.0180s ]
+SQL: SELECT `id`,`name`,`title`,`sort` FROM `db_auth_rule` WHERE ( pid=6 AND status=1 ) ORDER BY id ASC  [ RunTime:0.0000s ]
+SQL: SELECT `id`,`name`,`title`,`sort` FROM `db_auth_rule` WHERE ( pid=2 AND status=1 ) ORDER BY id ASC  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.050002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.050002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001001s ]
+
+[ 2017-01-11T14:24:38+08:00 ] ::1 /Auths/index.php/Admin/Index/main.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-11T14:24:40+08:00 ] ::1 /Auths/index.php/Admin/index/main?menu_title=%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%20-%20%E5%90%8E%E5%8F%B0%E9%A6%96%E9%A1%B5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001001s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.014001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-11T14:24:42+08:00 ] ::1 /Auths/index.php/Admin/admin/admin_add/menu_title/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%20-%20%E7%94%A8%E6%88%B7%E6%B7%BB%E5%8A%A0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `db_auth_group` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`title` FROM `db_auth_group`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-11T14:24:42+08:00 ] ::1 /Auths/index.php/Admin/admin/auth_group/menu_title/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%20-%20%E7%AE%A1%E7%90%86%E5%91%98%E7%BC%96%E8%BE%91
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `db_auth_group` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `db_auth_group` ORDER BY id DESC  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\3136b35170fcf1cb1ad513eb9089443e.php 第 55 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\3136b35170fcf1cb1ad513eb9089443e.php 第 55 行.
+NOTIC: [8] Undefined variable: page C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\3136b35170fcf1cb1ad513eb9089443e.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.030002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-11T14:24:47+08:00 ] ::1 /Auths/index.php/Admin/user/user_list?menu_title=%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86%20-%20%E7%94%A8%E6%88%B7%E5%88%97%E8%A1%A8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002001s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0270s ]
+SQL: SELECT * FROM `db_user` ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0090s ]
+NOTIC: [8] Undefined variable: where C:\wamp\www\Auths\Auth\Admin\Controller\UserController.class.php 第 26 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Admin\Controller\UserController.class.php 第 26 行.
+SQL: SELECT COUNT(id) AS tp_count FROM `db_user` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: where C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 44 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-11T14:24:47+08:00 ] ::1 /Auths/index.php/Admin/user/coupons_list/menu_title/%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86%20-%20%E4%BC%98%E6%83%A0%E5%88%B8%E5%88%97%E8%A1%A8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+ERR: 1146:La table 'auth.db_user_coupons' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `db_user_coupons`
+ERR: 1146:La table 'auth.db_user_coupons' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `db_user_coupons`
+
+[ 2017-01-11T14:24:48+08:00 ] ::1 /Auths/index.php/Admin/user/user_list/menu_title/%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86%20-%20%E7%94%A8%E6%88%B7%E5%88%97%E8%A1%A8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `db_user` ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: where C:\wamp\www\Auths\Auth\Admin\Controller\UserController.class.php 第 26 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Admin\Controller\UserController.class.php 第 26 行.
+SQL: SELECT COUNT(id) AS tp_count FROM `db_user` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Undefined variable: where C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 44 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-11T14:24:49+08:00 ] ::1 /Auths/index.php/Admin/user/coupons_list/menu_title/%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86%20-%20%E4%BC%98%E6%83%A0%E5%88%B8%E5%88%97%E8%A1%A8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+ERR: 1146:La table 'auth.db_user_coupons' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `db_user_coupons`
+ERR: 1146:La table 'auth.db_user_coupons' n'existe pas
+ [ SQL语句 ] : SHOW COLUMNS FROM `db_user_coupons`
+
+[ 2017-01-11T14:24:57+08:00 ] ::1 /Auths/index.php/Admin/user/user_list/menu_title/%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86%20-%20%E7%94%A8%E6%88%B7%E5%88%97%E8%A1%A8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `db_user` ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0010s ]
+NOTIC: [8] Undefined variable: where C:\wamp\www\Auths\Auth\Admin\Controller\UserController.class.php 第 26 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Admin\Controller\UserController.class.php 第 26 行.
+SQL: SELECT COUNT(id) AS tp_count FROM `db_user` LIMIT 1   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: where C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 44 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-11T14:24:58+08:00 ] ::1 /Auths/index.php/Admin/index/main?menu_title=%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%20-%20%E5%90%8E%E5%8F%B0%E9%A6%96%E9%A1%B5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011000s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011000s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-11T14:24:59+08:00 ] ::1 /Auths/index.php/Admin/admin/admin_add/menu_title/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%20-%20%E7%94%A8%E6%88%B7%E6%B7%BB%E5%8A%A0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `db_auth_group` [ RunTime:0.0050s ]
+SQL: SELECT `id`,`title` FROM `db_auth_group`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021002s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003000s ]
+
+[ 2017-01-11T14:25:00+08:00 ] ::1 /Auths/index.php/Admin/admin/auth_group/menu_title/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%20-%20%E7%AE%A1%E7%90%86%E5%91%98%E7%BC%96%E8%BE%91
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `db_auth_group` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `db_auth_group` ORDER BY id DESC  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\3136b35170fcf1cb1ad513eb9089443e.php 第 55 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\3136b35170fcf1cb1ad513eb9089443e.php 第 55 行.
+NOTIC: [8] Undefined variable: page C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\3136b35170fcf1cb1ad513eb9089443e.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-11T14:25:02+08:00 ] ::1 /Auths/index.php/Admin/Admin/group_edit/id/4.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `db_auth_group` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`title`,`rules` FROM `db_auth_group` WHERE `id` = 4 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `db_auth_rule` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`title` FROM `db_auth_rule` WHERE ( pid = 0 )  [ RunTime:0.0010s ]
+SQL: SELECT `id`,`title` FROM `db_auth_rule` WHERE ( pid =6 )  [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title` FROM `db_auth_rule` WHERE ( pid =2 )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-11T14:25:04+08:00 ] ::1 /Auths/index.php/Admin/admin/auth_group/menu_title/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%20-%20%E7%AE%A1%E7%90%86%E5%91%98%E7%BC%96%E8%BE%91
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `db_auth_group` [ RunTime:0.0030s ]
+SQL: SELECT * FROM `db_auth_group` ORDER BY id DESC  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\3136b35170fcf1cb1ad513eb9089443e.php 第 55 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\3136b35170fcf1cb1ad513eb9089443e.php 第 55 行.
+NOTIC: [8] Undefined variable: page C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\3136b35170fcf1cb1ad513eb9089443e.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-11T14:25:06+08:00 ] ::1 /Auths/index.php/Admin/Admin/group_del.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `db_auth_group` [ RunTime:0.0040s ]
+SQL: DELETE FROM `db_auth_group` WHERE `id` = 4 [ RunTime:0.0000s ]
+
+[ 2017-01-11T14:25:10+08:00 ] ::1 /Auths/index.php/Admin/Admin/group_edit/id/3.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `db_auth_group` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`title`,`rules` FROM `db_auth_group` WHERE `id` = 3 LIMIT 1   [ RunTime:0.0000s ]
+SQL: SHOW COLUMNS FROM `db_auth_rule` [ RunTime:0.0030s ]
+SQL: SELECT `id`,`title` FROM `db_auth_rule` WHERE ( pid = 0 )  [ RunTime:0.0010s ]
+SQL: SELECT `id`,`title` FROM `db_auth_rule` WHERE ( pid =6 )  [ RunTime:0.0000s ]
+SQL: SELECT `id`,`title` FROM `db_auth_rule` WHERE ( pid =2 )  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.023001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002000s ]
+
+[ 2017-01-11T14:25:12+08:00 ] ::1 /Auths/index.php/Admin/admin/admin_add/menu_title/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%20-%20%E7%94%A8%E6%88%B7%E6%B7%BB%E5%8A%A0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `db_auth_group` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`title` FROM `db_auth_group`  [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-11T14:25:13+08:00 ] ::1 /Auths/index.php/Admin/index/main/menu_title/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%20-%20%E5%90%8E%E5%8F%B0%E9%A6%96%E9%A1%B5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-11T14:25:20+08:00 ] ::1 /Auths/index.php/Admin/index/main?menu_title=%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%20-%20%E5%90%8E%E5%8F%B0%E9%A6%96%E9%A1%B5
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-11T14:25:22+08:00 ] ::1 /Auths/index.php/Admin/admin/admin_add/menu_title/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%20-%20%E7%94%A8%E6%88%B7%E6%B7%BB%E5%8A%A0
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002000s ]
+SQL: SHOW COLUMNS FROM `db_auth_group` [ RunTime:0.0040s ]
+SQL: SELECT `id`,`title` FROM `db_auth_group`  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.019002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-11T14:25:23+08:00 ] ::1 /Auths/index.php/Admin/admin/auth_group/menu_title/%E5%90%8E%E5%8F%B0%E7%AE%A1%E7%90%86%20-%20%E7%AE%A1%E7%90%86%E5%91%98%E7%BC%96%E8%BE%91
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `db_auth_group` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `db_auth_group` ORDER BY id DESC  [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\3136b35170fcf1cb1ad513eb9089443e.php 第 55 行.
+NOTIC: [8] Undefined variable: page C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\3136b35170fcf1cb1ad513eb9089443e.php 第 64 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.018001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2017-01-11T14:26:00+08:00 ] ::1 /Auths/index.php/Admin/user/user_list?menu_title=%E7%94%A8%E6%88%B7%E7%AE%A1%E7%90%86%20-%20%E7%94%A8%E6%88%B7%E5%88%97%E8%A1%A8
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000000s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001000s ]
+SQL: SHOW COLUMNS FROM `db_user` [ RunTime:0.0040s ]
+SQL: SELECT * FROM `db_user` ORDER BY id DESC LIMIT 0,5   [ RunTime:0.0000s ]
+NOTIC: [8] Undefined variable: where C:\wamp\www\Auths\Auth\Admin\Controller\UserController.class.php 第 26 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Admin\Controller\UserController.class.php 第 26 行.
+SQL: SELECT COUNT(id) AS tp_count FROM `db_user` LIMIT 1   [ RunTime:0.0000s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.001000s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.001000s ]
+NOTIC: [8] Undefined variable: where C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 44 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+NOTIC: [8] Use of undefined constant id - assumed 'id' C:\wamp\www\Auths\Auth\Runtime\Cache\Admin\dc464b2080fe1ca112942f2a1d7e9a8e.php 第 67 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.017001s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001000s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001000s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001000s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001000s ]
+
