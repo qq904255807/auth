@@ -1,0 +1,30 @@
+create table admin(
+id int primary key,
+name varchar(32) not null,
+password varchar (64) not null
+);
+
+
+
+create table emp(
+id int primary key auto_increment,
+name varchar(64) not null,
+grade tinyint,
+email varchar(64) not null,
+salary float
+);
+
+insert into admin(name,password) values("xiaoqiang",md5("123321"));
+update admin set password=md5("123321") where name="lihua";
+
+
+insert into emp (name,grade,email,salary) select name,grade,email,salary from emp;   双倍增加信息；
+select count(*) from emp; 查询总数据数量
+
+
+
+insert into emp (name,grade,email,salary) values('mengpeng','1','mengpeng@qq.com',200);
+insert into emp (name,grade,email,salary) values('mengpeng1','2','mengpeng2@qq.com',200);
+insert into emp (name,grade,email,salary) values('mengpeng3','3','mengpeng3@qq.com',200);
+insert into emp (name,grade,email,salary) values('mengpeng4','4','mengpeng@4qq.com',200);
+insert into emp (name,grade,email,salary) values('mengpeng5','5','mengpeng@5qq.com',200);
